@@ -7,5 +7,6 @@ public class Program {
 		int total=x+y;
 		System.out.println("total is "+total);
 		//line 1
+		//line 2
 	}
 }
