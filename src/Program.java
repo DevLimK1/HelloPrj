@@ -6,5 +6,6 @@ public class Program {
 		int y=4;
 		int total=x+y;
 		System.out.println("total is "+total);
+		//line 1
 	}
 }
