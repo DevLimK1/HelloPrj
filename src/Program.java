@@ -8,5 +8,6 @@ public class Program {
 		System.out.println("total is "+total);
 		//line 1
 		//line 2
+		//new branch line1
 	}
 }
