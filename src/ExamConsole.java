@@ -5,5 +5,6 @@ public class ExamConsole {
 		 int math=0;
 		 int computer=2;
 		 int kk=1;
+		 int mm=3;
 	}
 }
